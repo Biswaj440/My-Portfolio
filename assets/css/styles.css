@@ -92,7 +92,7 @@ img {
 }
 
 .section {
-  padding-top: 3rem;
+  padding-top: 3rem;  
   padding-bottom: 2rem;
 }
 
@@ -211,7 +211,7 @@ img {
   position: absolute;
   right: 0;
   bottom: 0;
-  width: 260px;
+  width: 200px;
 }
 .home__blob {
   fill: var(--first-color);
